@@ -1,0 +1,34 @@
+{
+  "name": "Block 33333",
+  "symbol": "BLCKBTLS",
+  "description": "'Block Battles' is NFT collection for playing a first unique NFT game on Solana.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://nftstorage.link/ipfs/bafybeibsvpkppngsxkdehqlodwbndfpxpky4b42zpwxzkdnb67ntoadkva/0",
+  "external_url": "",
+  "collection": { "name": "Block Battles", "family": "LaunchMyNFT" },
+  "attributes": [
+    { "trait_type": "Block Number", "value": 1 },
+    {
+      "trait_type": "Block Hash",
+      "value": "D4GP2pLP9DMa122VywqRb5NZKn5TEsuG4PQhN3HK6vjR"
+    },
+    { "trait_type": "Fraction", "value": "DEBIL" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeibsvpkppngsxkdehqlodwbndfpxpky4b42zpwxzkdnb67ntoadkva/0",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8ddBrXUoTX1ApVo3ddJjDxkDhjHKRpzNPhkZBHnUahut",
+        "share": 100
+      }
+    ]
+  },
+  "uri": "",
+  "mint": "BhCiMiYzXg3ZfW8yuZJbN3KSrmJwkjMUn4RDdaBoYLVM"
+}
