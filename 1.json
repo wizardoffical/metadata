@@ -1,9 +1,9 @@
 {
-"name": "Block 1",
+"name": "Block 33333",
 "symbol": "BLCKBTLS",
 "description": "'Block Battles' is NFT collection for playing a first unique NFT game on Solana.",
 "seller_fee_basis_points": 1000,
-"image": "https://github.com/wizardoffical/images/blob/main/1.png",
+"image": "https://github.com/wizardoffical/images/1.png",
 "external_url": "",
 "collection": {
 "name": "Block Battles",
@@ -21,16 +21,12 @@
 {
 "trait_type": "Fraction",
 "value": "DEBIL"
-},
-  {
-"trait_type": "power",
-"value": "6"
-},
+}
 ],
 "properties": {
 "files": [
 {
-"uri": "https://github.com/wizardoffical/images/blob/main/1.png",
+"uri": "https://github.com/wizardoffical/metadata/edit/main/1.json",
 "type": "image/png"
 }
 ],
@@ -41,5 +37,6 @@
 "share": 100
 }
 ]
-}
+},
+"uri": "https://github.com/wizardoffical/metadata/1.json",
 }
