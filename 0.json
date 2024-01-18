@@ -1,56 +1,67 @@
 {
-  "name": "Block huiec",
-  "symbol": "sucktest",
-  "uri": "https://github.com/wizardoffical/metadata/edit/main/0.json",
-  "seller_fee_basis_points": 250,
-  "creators": [
-    {
-      "address": "6tXBx6xSn1bpKYb6y2HeSXm1qBEPT4mfJiXjgyRiKq2a",
-      "verified": true,
-      "share": 0
-    },
-    {
-      "address": "8ddBrXUoTX1ApVo3ddJjDxkDhjHKRpzNPhkZBHnUahut",
-      "verified": true,
-      "share": 100
-    }
-  ],
+  "name": "Block #0",
+  "symbol": "BLCK",
+  "description": "Don't fade Blocks.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://github.com/wizardoffical/images/1.png",
+  "uri": "https://github.com/wizardoffical/metadata/0.json",
+  "external_url": "",
+  "collection": {
+    "name": "Blocks",
+    "family": "LaunchMyNFT"
+  },
   "attributes": [
     {
       "trait_type": "Block Number",
-      "value": 16
-    },
-    {
-      "trait_type": "Block Hash",
-      "value": "2je1sABw5K4xBoPWoGVqXNosW5F59zbQMFmZPDeP6Ryi"
-    },
-    {
-      "trait_type": "Fraction",
-      "value": "thief"
-    },
-    {
-      "trait_type": "Power",
-      "value": 8
-    },
-    {
-      "trait_type": "Health",
-      "value": 95
-    },
-    {
-      "trait_type": "Luck",
-      "value": 45
-    },
-    {
-      "trait_type": "Wins",
       "value": 0
     },
     {
-      "trait_type": "Loses",
-      "value": 1
+      "trait_type": "Block hash",
+      "value": "4sGjMW1sUnHzSxGspuhpqLDx6wiyjNtZAMdL4VZHirAn"
+    },
+    {
+      "trait_type": "Fraction",
+      "value": "tank"
+    },
+    {
+      "trait_type": "Power",
+      "value": 6
+    },
+    {
+      "trait_type": "Health",
+      "value": 107
+    },
+    {
+      "trait_type": "Luck",
+      "value": 40
+    },
+    {
+      "trait_type": "Victories",
+      "value": 0
+    },
+    {
+      "trait_type": "Defeats",
+      "value": 0
     },
     {
       "trait_type": "Chests",
-      "value": 1
+      "value": 0
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/wizardoffical/images/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8ddBrXUoTX1ApVo3ddJjDxkDhjHKRpzNPhkZBHnUahut",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
 }
